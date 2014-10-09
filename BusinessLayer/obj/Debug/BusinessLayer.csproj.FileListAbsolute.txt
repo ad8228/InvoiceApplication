@@ -1,0 +1,9 @@
+C:\Users\Anni\documents\visual studio 2012\Projects\InvoiceApplication\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Anni\documents\visual studio 2012\Projects\InvoiceApplication\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Anni\documents\visual studio 2012\Projects\InvoiceApplication\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Anni\documents\visual studio 2012\Projects\InvoiceApplication\BusinessLayer\bin\Debug\Invoice.dll
+C:\Users\Anni\documents\visual studio 2012\Projects\InvoiceApplication\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Anni\documents\visual studio 2012\Projects\InvoiceApplication\BusinessLayer\bin\Debug\Invoice.pdb
+C:\Users\Anni\documents\visual studio 2012\Projects\InvoiceApplication\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Anni\documents\visual studio 2012\Projects\InvoiceApplication\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Anni\documents\visual studio 2012\Projects\InvoiceApplication\BusinessLayer\obj\Debug\BusinessLayer.pdb

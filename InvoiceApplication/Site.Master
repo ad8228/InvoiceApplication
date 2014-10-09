@@ -1,0 +1,38 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="InvoiceApplication.SiteMaster" %>
+
+<!DOCTYPE html>
+<html lang="en">
+<head runat="server">
+    <meta charset="utf-8" />
+    <title><%: Page.Title %> - Invoice Application</title>
+    <asp:PlaceHolder runat="server">     
+          <%: Scripts.Render("~/bundles/modernizr") %>
+    </asp:PlaceHolder>  
+    <webopt:BundleReference runat="server" Path="~/Content/css" /> 
+    <script src="Scripts/jquery-1.7.1.js"></script>
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <meta name="viewport" content="width=device-width" />
+ <%--   <asp:ContentPlaceHolder runat="server" ID="HeadContent" />--%>
+</head>
+<body>
+<form runat="server">
+  <div id="InvoiceTable">
+    <header>
+                <nav>
+                    <ul id="menu">
+                        <li><a runat="server" href="~/ViewInvoice.aspx">ViewInvoice</a></li>
+                        <li><a runat="server" href="~/CreateInvoice.aspx">CreateInvoice</a></li>
+                    </ul>
+           </nav>
+    </header>
+      
+    <div id="body">
+   <%--     <asp:ContentPlaceHolder runat="server" ID="FeaturedContent" />--%>
+
+            <asp:ContentPlaceHolder runat="server" ID="MainContent" />
+
+    </div>
+      </div>
+    </form>
+</body>
+</html>
